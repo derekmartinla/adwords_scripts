@@ -76,15 +76,8 @@ function main() {
                   count++; 
                   
                  }  // end of keyword iteration
-                
-           
-                             
-         
-					 } // end of ad group iteration
-      		    
+         			 } // end of ad group iteration	    
       }
-    
-     
   }
   coreKeywordLogic(keywordList);
 }
