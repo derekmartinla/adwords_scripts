@@ -7,14 +7,12 @@
 <li><a href="https://github.com/derekmartinla/adwords_scripts/blob/master/Campaign%20Builds/CheckSingularsAndPlurals.js>Checks ad groups for singular and plural keyword variations and creates if missing.</a></li>	
 </ul>
 </div>
-
 <div>
 <h3>Management Scripts</h3>
 <ul>
 <li><a href="https://github.com/derekmartinla/adwords_scripts/blob/master/Management/destination-url-checker.js">404 Checker -- Checks All Ad Destination URLs for 404s.</a></li>	
 </ul>
 </div>
-
 <div>
 <h3>Optimization Scripts</h3>
 <ul>
